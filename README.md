@@ -21,7 +21,7 @@ CDN Link, v1.1.0:
 `<link rel="stylesheet" href="https://cdn.podfonts.com/releases/v1.1.0/css/podfonts.css" integrity="sha384-JH5tKI4CUyK92X34BURCL05JcPhlKOfX7IlfBvkcRn75+/o6JU2PmnlKwOwsYfel" crossorigin="anonymous">`
                
                 
-### Once you have your webiste ready
+### Once you have your website ready
 Copy this code into the <head> of each page.
 
 ### Now get adding Podfont Icons
@@ -36,13 +36,13 @@ For more details, and to see the logos please visit the website - [Podfonts.com]
 Last modified: 18/04/2019
 
 Podfonts was created by [WhiteFish Creative Ltd](https://whitefishcreative.co.uk/) (The **Company**)
-The Company registered in England and Wales with company number 11042372
+The Company registered in England and Wales with company number 11042372.
 
 Podfonts is available under the Creative Commons Attribution 4.0 International License.
 
 ## Overview
 
-The [cc-by-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license permits almost any use subject to providing credit and license notice
+The [cc-by-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license permits almost any use subject to providing credit and license notice.
 
 ## Usage of Podfonts
 
